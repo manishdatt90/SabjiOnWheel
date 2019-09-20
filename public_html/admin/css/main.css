@@ -1,0 +1,286 @@
+/* CSS Document */
+.txtWhite{
+	font-family: Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: justify;
+	padding: 4px;
+
+}
+a.txtWhite:link{
+	font-family: Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: justify;
+	padding: 4px;
+
+}
+a.txtWhite:active,visited{
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: justify;
+	padding: 4px;
+}
+a.txtWhite:hover{
+	font-family: Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: underline;
+	text-align: justify;
+	padding: 4px;
+}
+.BoldtxtWhite{
+	font-family: Arial;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: justify;
+	padding: 2px;
+
+}
+a.BoldtxtWhite:link{
+	font-family: Arial;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: justify;
+	padding: 2px;
+
+}
+a.BoldtxtWhite:active,visited{
+	font-family: Arial;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: justify;
+	padding: 2px;
+}
+a.BoldtxtWhite:hover{
+	font-family: Arial;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: underline;
+	text-align: justify;
+	padding: 2px;
+}
+
+.txtBlack{
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: Normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: Center;
+
+}
+
+a.txtBlack: llink,active, visited {
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: Normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: justify;
+
+}
+
+a.txtBlack:hover{
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: Normal;
+	color: #000000;
+	text-decoration:underline;
+	text-align: justify;
+}
+
+
+.bodytxt{
+	font-family: Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: Normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: left;
+}
+
+
+.title {
+	font-family: Arial;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: bold;
+	color: #AD1112;
+	text-decoration: none;
+	text-align: justify;
+	background-image: url(../images/title_bg.jpg);
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	background-repeat: no-repeat;
+}
+
+.redtxt{
+	font-family: Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: Bold;
+	color:#AD1112;
+	text-decoration: none;
+	text-align: justify;
+	
+}
+
+.normLink{
+	font-family: Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: Normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: justify;
+
+}
+
+a.normLink: llink,active, visited {
+	font-family: Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: Normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: justify;
+
+}
+
+a.normLink:hover{
+	font-family: Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: Normal;
+	color: #990000;
+	text-decoration:underline;
+	text-align: justify;
+}
+
+
+.Black {
+    font-family: "Trebuchet MS";
+	font-size: 13px;
+	font-style: normal;
+	font-weight: bold;
+	color:#000000;
+	text-decoration: none;
+	text-align: justify;
+	list-style-position: inside;
+	list-style-image: url(../images/brown_bull.jpg);
+}
+.txtbox{
+	font-family: Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: Normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: justify;
+	width: 150px;
+	height: 14px;
+}
+.subTitle {
+	font-family: "Trebuchet MS";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color:#FF6600;
+	text-decoration: none;
+	text-align: justify;
+	padding: 4px;
+	background-image: url(../images/sub.jpg);
+}
+
+
+
+.txtWhilte1{
+	font-family: Arial;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: 	Bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: justify;
+
+}
+
+.normWhiteLink{
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: Bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: justify;
+
+}
+
+
+a.normWhiteLink: llink,active, visited {
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: Bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: justify;
+
+}
+
+a.normWhiteLink:hover{
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: Bold;
+	color: #FFFFFF;
+	text-decoration:underline;
+	text-align: justify;
+}
+.inputButton{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold; 
+	color:#990000;
+	text-decoration: none;
+	background-image: url(/images/but.jpg);
+	background-repeat:repeat-x;
+	padding: 2px;
+	height: 22px;
+	border:1px solid #990000;
+
+}
+.link a{
+text-decoration:none;
+font-weight:bold;
+color:#0033FF;
+}

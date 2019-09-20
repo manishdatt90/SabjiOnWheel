@@ -1,0 +1,162 @@
+/* CSS Document */
+
+*
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+body
+{
+	padding: 0px;
+	
+	margin-top: 7px;
+	margin-right: 0px;
+	margin-bottom: 7px;
+	margin-left: 0px;
+}
+
+.bodydiv
+{
+	margin:15px;
+	background-color:#FFFFFF;
+	-moz-border-radius-topleft:15px;
+	-moz-border-radius-topright:15px;
+	-moz-border-radius-bottomleft:15px;
+	-moz-border-radius-bottomright:15px;
+	padding:15px 5px 15px 5px;
+	
+}
+
+h1
+{
+	border:1px solid #0066FF;
+	font-size:20px;
+	margin:0px;
+	padding-left:10px;
+}
+
+a
+{
+	color:#669900;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.listing
+{
+	border:1px solid #999999;
+	width:100%;
+	border-collapse:collapse;
+}
+
+.listing-head
+{
+	font-weight:bold;
+	padding:5px;
+	background-color:#CCCCCC;
+}
+
+.listing-head td
+{
+	text-align:center;
+}
+
+.listing-head th
+{
+	text-align:center;
+}
+
+.listing-head:hover
+{
+	background-color:#CCCCCC;
+}
+
+.listing td
+{
+	border:1px solid #999999;
+	border-collapse:collapse;
+	padding:3px 3px 3px 5px;
+}
+
+.listing tr:hover
+{
+	background-color:#eeeeee;
+}
+
+.subtopnav
+{
+	background-color:#CCCCCC;
+	margin:0px;
+	padding:3px;
+}
+
+form
+{
+	display:inline;
+}
+
+form table
+{
+	border:1px solid #999999;
+	width:100%;
+    border-collapse:collapse;
+
+}
+
+form table td
+{
+	border:1px solid #999999;
+	padding:3px 3px 3px 3px;
+	vertical-align:top;
+}
+
+form input[type='text']
+{
+	border: 1px solid #000;
+    border-radius: 5px;
+	width:250px;
+	height:25px;
+}
+form textarea
+{
+	border: 1px solid #000;
+    border-radius: 5px;
+	width:195px;
+	height:100px;
+	resize:none;
+}
+form input[type='password']
+{
+	border: 1px solid #000;
+    border-radius: 5px;
+	width:250px;
+	height:25px;
+}
+
+form input[type='submit'],input[type='reset'],input[type='Button']
+{
+	border: 1px solid #000;
+	background-color:#74802A;
+ 	width:80px;
+	height:30px;
+	color:#fff;
+	font-size:14px;
+	font-weight:bold;
+}
+
+form input
+{
+	border: 1px solid #000;
+ }
+form input:focus { 
+    outline: none;
+    border-color: #5AB0DB;
+    box-shadow: 0 0 10px #61C5FA;
+}
+form select
+{
+	border:1px;
+	border-style:solid;
+}
+

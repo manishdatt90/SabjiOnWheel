@@ -1,0 +1,366 @@
+[18-May-2014 11:39:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '"' in /home/sabjionw/public_html/dummy/logic/logicLogin.php on line 179
+[18-May-2014 11:49:16 Asia/Calcutta] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/sabjionw/public_html/dummy/invoice_email.php on line 7
+[18-May-2014 11:49:16 Asia/Calcutta] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/sabjionw/public_html/dummy/invoice_email.php on line 156
+[21-May-2014 16:59:03 Asia/Calcutta] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/sabjionw/public_html/dummy/confirm.php on line 27
+[25-May-2014 08:34:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/sabjionw/public_html/dummy/checkout.php on line 43
+[25-May-2014 08:34:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/sabjionw/public_html/dummy/checkout.php on line 43
+[25-May-2014 08:36:06 Asia/Calcutta] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/sabjionw/public_html/dummy/checkout.php on line 45
+[25-May-2014 08:36:54 Asia/Calcutta] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/sabjionw/public_html/dummy/checkout.php on line 45
+[25-May-2014 08:36:54 Asia/Calcutta] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/sabjionw/public_html/dummy/checkout.php on line 45
+[25-May-2014 08:37:01 Asia/Calcutta] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/sabjionw/public_html/dummy/checkout.php on line 45
+[25-May-2014 08:37:01 Asia/Calcutta] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/sabjionw/public_html/dummy/checkout.php on line 45
+[25-May-2014 08:37:01 Asia/Calcutta] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/sabjionw/public_html/dummy/checkout.php on line 45
+[25-May-2014 08:43:23 Asia/Calcutta] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/sabjionw/public_html/dummy/checkout.php on line 45
+[25-May-2014 15:11:59 Asia/Calcutta] PHP Warning:  include_once(/config.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:11:59 Asia/Calcutta] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:11:59 Asia/Calcutta] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/sabjionw/public_html/dummy/logout.php on line 8
+[25-May-2014 15:12:11 Asia/Calcutta] PHP Warning:  include_once(/config.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:12:11 Asia/Calcutta] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:12:11 Asia/Calcutta] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/sabjionw/public_html/dummy/logout.php on line 8
+[25-May-2014 15:12:17 Asia/Calcutta] PHP Warning:  include_once(/config.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:12:17 Asia/Calcutta] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:12:17 Asia/Calcutta] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/sabjionw/public_html/dummy/logout.php on line 8
+[25-May-2014 15:12:30 Asia/Calcutta] PHP Warning:  include_once(/config.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:12:30 Asia/Calcutta] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:12:30 Asia/Calcutta] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/sabjionw/public_html/dummy/logout.php on line 8
+[25-May-2014 15:12:47 Asia/Calcutta] PHP Warning:  include_once(/config.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:12:47 Asia/Calcutta] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:12:47 Asia/Calcutta] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/sabjionw/public_html/dummy/logout.php on line 8
+[25-May-2014 15:14:52 Asia/Calcutta] PHP Warning:  include_once(/config.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:14:52 Asia/Calcutta] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:14:52 Asia/Calcutta] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/sabjionw/public_html/dummy/logout.php on line 8
+[25-May-2014 15:15:10 Asia/Calcutta] PHP Warning:  include_once(/config.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:15:10 Asia/Calcutta] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sabjionw/public_html/dummy/logout.php on line 2
+[25-May-2014 15:15:10 Asia/Calcutta] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/sabjionw/public_html/dummy/logout.php on line 8
+[30-May-2014 21:43:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_ELSE in /home/sabjionw/public_html/dummy/process_checkout.php on line 40
+[30-May-2014 21:44:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sabjionw/public_html/dummy/checkout.php on line 194
+[30-May-2014 21:45:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sabjionw/public_html/dummy/checkout.php on line 194
+[30-May-2014 21:46:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_ELSE in /home/sabjionw/public_html/dummy/process_checkout.php on line 40
+[30-May-2014 22:31:52 Asia/Calcutta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sabjionw/public_html/dummy/config.php on line 35
+[30-May-2014 22:31:55 Asia/Calcutta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sabjionw/public_html/dummy/config.php on line 35
+[17-Jun-2015 16:51:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home3/sabjionw/public_html/dummy/config.php on line 35
+[04-Jul-2015 13:52:37] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home3/sabjionw/public_html/dummy/order_detail.php on line 157
+[26-Sep-2015 03:48:28 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Sep-2015 03:49:28 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Sep-2015 03:50:31 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Sep-2015 03:51:27 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Sep-2015 04:42:35 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Sep-2015 08:08:25 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Sep-2015 12:01:16 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 03:50:21 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 03:51:51 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 03:52:47 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 03:53:46 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 05:20:16 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 06:29:21 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 07:03:46 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 07:04:24 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 07:05:04 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 07:05:54 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 07:07:18 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 07:08:16 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 07:51:01 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 07:54:48 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 11:51:38 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 11:52:27 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 11:53:05 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 11:53:28 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 12:40:45 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 12:59:06 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 13:09:26 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Sep-2015 13:19:43 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Sep-2015 03:59:04 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Sep-2015 03:59:34 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Sep-2015 04:00:46 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Sep-2015 04:01:10 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Sep-2015 04:01:14 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Sep-2015 04:01:17 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Sep-2015 06:20:58 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Sep-2015 06:37:16 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Sep-2015 06:38:45 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Sep-2015 07:15:15 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Sep-2015 07:22:36 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Sep-2015 07:50:26 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Sep-2015 04:21:03 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Sep-2015 05:11:57 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Sep-2015 10:54:11 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Sep-2015 10:54:13 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Sep-2015 12:46:02 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Sep-2015 12:54:01 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Oct-2015 04:18:27 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Oct-2015 04:19:49 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Oct-2015 04:22:39 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Oct-2015 04:22:49 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Oct-2015 04:25:53 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Oct-2015 04:47:24 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Oct-2015 06:31:15 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Oct-2015 06:48:15 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Oct-2015 08:05:32 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Oct-2015 09:03:33 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Oct-2015 11:50:06 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[02-Oct-2015 04:43:34 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[02-Oct-2015 04:43:37 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Oct-2015 03:28:32 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Oct-2015 03:28:42 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Oct-2015 03:28:44 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Oct-2015 03:28:45 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Oct-2015 03:28:59 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Oct-2015 03:35:23 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Oct-2015 03:36:11 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Oct-2015 04:27:30 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Oct-2015 05:40:08 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Oct-2015 05:40:33 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Oct-2015 05:41:37 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Oct-2015 06:19:27 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 04:17:18 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 04:19:00 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 04:39:58 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 05:34:02 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 06:11:22 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 06:49:54 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 06:53:17 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 07:54:11 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 07:54:20 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 07:54:38 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 08:57:36 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 08:58:58 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 10:37:27 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 10:46:51 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 10:54:37 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 11:31:14 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Oct-2015 11:37:51 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[06-Oct-2015 05:11:07 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[06-Oct-2015 05:12:49 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[06-Oct-2015 05:17:19 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[06-Oct-2015 06:09:20 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[06-Oct-2015 07:03:06 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[06-Oct-2015 07:03:22 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[06-Oct-2015 07:52:33 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[06-Oct-2015 10:49:06 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[06-Oct-2015 12:58:31 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Oct-2015 03:49:12 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Oct-2015 03:49:48 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Oct-2015 03:53:38 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Oct-2015 04:19:04 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Oct-2015 04:31:08 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Oct-2015 07:20:39 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Oct-2015 10:26:18 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Oct-2015 11:59:35 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[08-Oct-2015 03:55:11 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[08-Oct-2015 03:56:56 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[08-Oct-2015 03:57:42 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[08-Oct-2015 04:32:16 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[08-Oct-2015 07:52:26 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[08-Oct-2015 11:36:52 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[08-Oct-2015 11:54:13 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[09-Oct-2015 03:51:12 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[09-Oct-2015 03:52:05 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[09-Oct-2015 07:37:18 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[09-Oct-2015 08:00:48 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[09-Oct-2015 08:13:21 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[09-Oct-2015 08:13:23 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Oct-2015 04:42:54 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Oct-2015 05:42:36 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Oct-2015 05:44:53 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Oct-2015 05:48:46 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Oct-2015 05:49:05 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Oct-2015 05:50:08 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Oct-2015 06:24:46 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Oct-2015 06:25:28 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Oct-2015 06:48:51 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Oct-2015 07:17:22 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Oct-2015 09:04:31 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Oct-2015 09:12:55 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[11-Oct-2015 05:08:49 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 04:01:39 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 04:02:12 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 04:36:09 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 04:36:11 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 04:57:12 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 05:11:43 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 05:23:43 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 05:45:05 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 07:19:28 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 07:19:53 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 07:20:58 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 07:22:34 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 07:24:17 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 08:47:32 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[12-Oct-2015 09:22:39 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[13-Oct-2015 03:55:28 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[13-Oct-2015 03:56:05 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[13-Oct-2015 03:56:41 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[13-Oct-2015 04:41:09 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[13-Oct-2015 08:45:44 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[13-Oct-2015 08:58:18 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[13-Oct-2015 10:20:28 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[13-Oct-2015 12:49:16 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[14-Oct-2015 03:50:40 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[14-Oct-2015 03:51:26 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[14-Oct-2015 05:53:52 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[14-Oct-2015 06:02:01 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[14-Oct-2015 10:00:23 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[14-Oct-2015 11:39:23 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[15-Oct-2015 03:59:58 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[15-Oct-2015 10:59:06 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[16-Oct-2015 04:14:34 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[16-Oct-2015 08:13:45 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[16-Oct-2015 08:16:39 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[16-Oct-2015 09:16:07 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[16-Oct-2015 09:56:57 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[16-Oct-2015 09:59:48 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[16-Oct-2015 12:33:59 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[16-Oct-2015 12:40:28 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[17-Oct-2015 03:45:55 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[17-Oct-2015 04:12:17 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[17-Oct-2015 04:35:18 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[17-Oct-2015 05:41:42 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[17-Oct-2015 05:47:27 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[17-Oct-2015 06:33:12 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[17-Oct-2015 06:52:14 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[17-Oct-2015 07:39:58 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[17-Oct-2015 08:04:32 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[17-Oct-2015 08:21:50 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[17-Oct-2015 08:59:05 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[19-Oct-2015 04:59:32 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[19-Oct-2015 05:17:24 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[19-Oct-2015 05:18:16 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[19-Oct-2015 05:42:49 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[19-Oct-2015 07:02:36 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[19-Oct-2015 07:03:41 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[19-Oct-2015 07:44:38 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[19-Oct-2015 09:53:13 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[19-Oct-2015 09:53:21 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[19-Oct-2015 10:06:52 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[19-Oct-2015 11:34:01 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[20-Oct-2015 06:46:59 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[20-Oct-2015 06:48:10 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[20-Oct-2015 08:19:21 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[21-Oct-2015 04:42:38 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[21-Oct-2015 04:43:33 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[21-Oct-2015 04:44:47 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[21-Oct-2015 05:01:14 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[21-Oct-2015 10:19:14 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[21-Oct-2015 10:55:38 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[21-Oct-2015 11:04:21 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[22-Oct-2015 04:40:25 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[22-Oct-2015 04:40:33 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[22-Oct-2015 04:43:59 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[23-Oct-2015 04:18:38 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[23-Oct-2015 04:19:02 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[23-Oct-2015 11:32:12 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[23-Oct-2015 11:51:49 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[23-Oct-2015 11:52:28 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[24-Oct-2015 03:48:39 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[24-Oct-2015 03:49:42 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[24-Oct-2015 03:50:18 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[24-Oct-2015 07:03:17 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[24-Oct-2015 07:45:01 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[24-Oct-2015 11:06:35 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[24-Oct-2015 11:10:22 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[24-Oct-2015 11:37:24 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[24-Oct-2015 12:47:53 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Oct-2015 03:50:28 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Oct-2015 05:00:50 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Oct-2015 06:55:19 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Oct-2015 07:37:05 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Oct-2015 11:36:25 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Oct-2015 12:10:50 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[26-Oct-2015 12:21:10 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 04:39:57 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 04:40:55 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 05:04:10 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 05:05:06 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 05:25:27 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 05:28:18 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 05:34:34 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 05:36:22 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 07:00:50 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 07:01:49 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 07:10:41 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 08:17:38 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[27-Oct-2015 10:21:48 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Oct-2015 04:39:17 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Oct-2015 06:11:56 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Oct-2015 07:47:54 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[28-Oct-2015 10:52:21 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Oct-2015 04:36:48 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Oct-2015 04:37:32 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Oct-2015 04:38:27 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Oct-2015 04:39:04 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Oct-2015 04:39:40 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[29-Oct-2015 06:30:01 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Oct-2015 04:09:10 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Oct-2015 06:45:29 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Oct-2015 06:57:56 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Oct-2015 08:01:51 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Oct-2015 08:03:47 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Oct-2015 08:05:39 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[30-Oct-2015 08:13:34 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[31-Oct-2015 04:14:48 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[31-Oct-2015 04:18:02 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[31-Oct-2015 05:50:53 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[31-Oct-2015 06:09:27 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[31-Oct-2015 06:55:42 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[31-Oct-2015 07:22:10 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[31-Oct-2015 07:48:01 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[31-Oct-2015 08:58:49 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[31-Oct-2015 11:24:16 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Nov-2015 04:21:29 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Nov-2015 04:38:37 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[01-Nov-2015 08:11:48 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[02-Nov-2015 04:39:08 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[02-Nov-2015 04:39:41 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[02-Nov-2015 04:41:05 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[02-Nov-2015 04:42:19 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[02-Nov-2015 06:20:55 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[02-Nov-2015 06:22:12 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[02-Nov-2015 12:09:04 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Nov-2015 04:07:54 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Nov-2015 04:33:53 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Nov-2015 04:34:20 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Nov-2015 04:34:22 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Nov-2015 05:17:03 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Nov-2015 05:44:19 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Nov-2015 06:43:41 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Nov-2015 07:21:44 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[03-Nov-2015 09:20:23 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[04-Nov-2015 04:57:10 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[04-Nov-2015 05:00:58 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[04-Nov-2015 05:11:46 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[04-Nov-2015 07:41:07 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[04-Nov-2015 07:42:21 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[04-Nov-2015 08:22:46 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Nov-2015 05:07:44 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Nov-2015 05:42:30 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Nov-2015 08:15:43 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Nov-2015 08:34:22 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Nov-2015 11:08:50 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[05-Nov-2015 11:09:15 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[06-Nov-2015 04:09:43 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[06-Nov-2015 10:21:20 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Nov-2015 04:20:54 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Nov-2015 04:21:33 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Nov-2015 04:47:50 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Nov-2015 06:06:05 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Nov-2015 06:42:06 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[07-Nov-2015 12:12:57 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[08-Nov-2015 05:18:44 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[08-Nov-2015 06:27:07 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[08-Nov-2015 08:46:26 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[09-Nov-2015 04:19:17 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[09-Nov-2015 04:20:26 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[09-Nov-2015 07:38:31 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[09-Nov-2015 07:39:52 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Nov-2015 05:01:11 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Nov-2015 05:03:39 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Nov-2015 05:05:02 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Nov-2015 05:48:04 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Nov-2015 06:21:11 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Nov-2015 06:21:51 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Nov-2015 06:47:06 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Nov-2015 08:08:39 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Nov-2015 08:14:57 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Nov-2015 08:22:03 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Nov-2015 08:43:27 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161
+[10-Nov-2015 11:12:27 Etc/GMT] PHP Notice:  Undefined variable: total in /home/sabjionw/public_html/dummy/order_detail.php on line 161

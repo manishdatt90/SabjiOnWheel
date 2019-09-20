@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule index.html index.php[R=301,L]
+RewriteCond %{HTTP_HOST} ^sabjionwheels.com$
+RewriteRule ^/?$ "http\:\/\/www\.sabjionwheels\.com\/" [R=301,L]
+

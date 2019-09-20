@@ -1,0 +1,254 @@
+.main-content-wrapper {
+    margin: 0 auto;
+    padding: 0 0 400px;
+    position: relative;
+    width:100%;
+    z-index: 500;
+}
+.main-title {
+    background: url("../images/border-3.png") repeat-x scroll left bottom rgba(0, 0, 0, 0);
+    margin:0;
+    overflow: hidden;
+    padding: 0;
+    position: relative; height: 44px;
+}
+.main-title .continue {
+    background: url("../images/arrow-7.png") no-repeat scroll right 6px rgba(0, 0, 0, 0);
+    padding: 0 10px 0 0;
+}
+.main-title a {
+    bottom: -8px;
+    color: #767676;
+    float: right;
+    font-size: 11px;
+    font-weight: bold;
+    position: relative; font-size:14px;
+}
+.main-title p {
+    color: #1E1E1E;
+    float: left;
+    font-size: 25px;
+    font-weight: normal;
+    letter-spacing: -0.1px;
+    line-height: 25px;
+    margin: 0 !important;
+}
+.main-title p {
+    color: #1E1E1E;
+    float: left;
+    font-size: 25px;
+    font-weight: normal;
+    letter-spacing: -0.1px;
+    line-height: 26px;
+    margin: 0 !important;
+}
+.custom-font-1 {
+ 
+}
+.cart-wrapper .cart-titles {
+    background: url("../images/border-5.png") repeat-x scroll left bottom rgba(0, 0, 0, 0);
+    margin: 0 0 24px;
+    overflow: hidden;
+    padding: 0 0 12px;
+}
+.cart-wrapper .cart-items {
+    width: 100%;
+}
+.image-wrapper-1 {
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    float: left;
+    padding: 2px;
+}
+.image-wrapper-1 .image {
+    position: relative;
+}
+.cart-wrapper .cart-items .row {
+    background: url("../images/border-5.png") repeat-x scroll left top rgba(0, 0, 0, 0);
+    padding: 4px 0;
+}
+.button-1.custom-font-1.trans-1.plus {
+    margin-right: 10px;
+}
+.cart-wrapper .cart-items .row:first-child {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    padding: 0 0 24px;
+}
+.cart-wrapper .cart-items .item-image {
+    float: left;
+    margin: 0 20px 0 0;
+    padding: 0;
+    width: 100px;
+}
+.image-wrapper-1 .image-overlay-1 {
+    opacity: 0;
+}
+.trans-1 {
+    transition: all 0.2s ease 0s;
+}
+.image-overlay-1 {
+    background-color: rgba(0, 0, 0, 0.15);
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
+
+.button-2 {
+    background: url("../images/ico-plus-1.png") no-repeat scroll center center rgba(0, 0, 0, 0.85);
+    border-radius: 100px;
+    display: block;
+    height: 51px;
+    width: 51px;
+}
+.cart-wrapper .cart-items .desc {
+    float: left;
+    padding: 25px 0 0;
+    width: 400px;
+}
+.cart-wrapper h3 {
+    font-size: 17px;
+    font-weight: normal;
+    line-height: 28px;
+}
+a {
+    border: medium none;
+    color: #1E1E1E;
+    text-decoration: none;
+}
+.cart-wrapper .cart-items .quantity {
+    float: left;
+    padding: 35px 0 0;
+    width: 200px;
+}
+.cart-wrapper .cart-items .price {
+    float: left;
+    width: 115px;
+	padding: 35px 0 0;
+}
+.cart-wrapper .cart-items .remove {
+    float: left;
+	 padding: 35px 0 0;
+}
+.cart-wrapper .cart-items .quantity .count {
+    float: left;
+    margin: 0 10px 0 0;
+    text-align: center;
+    width: 34px;
+}
+.input-text-1 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    box-shadow: 0 1px 0 #FFFFFF;
+    color: #565656;
+    font: 12px Arial,serif;
+    height: 28px;
+}
+.cart-wrapper .cart-items .quantity .plus {
+    margin: 1px 5px 0 0;
+}
+.button-1.custom-font-1.trans-1.plus {
+    margin-right: 10px;
+}
+.cart-wrapper .cart-items .quantity .button-1 {
+    float: left;
+    margin: 1px 0 0;
+}
+.cart-wrapper .cart-items .quantity .plus span {
+    background: url("../images/ico-plus-2.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+    height: 26px;
+    padding: 0;
+    width: 29px;
+}
+.cart-wrapper .cart-items .quantity .button-1 {
+    float: left;
+    margin: 1px 0 0;
+}
+.cart-wrapper .cart-items .quantity .minus span {
+    background: url("../images/ico-minus-1.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+    height: 26px;
+    padding: 0;
+    width: 29px;
+}
+.cart-wrapper .cart-items .remove a {
+    background: url("../images/ico-cross-1.png") no-repeat scroll left 5px rgba(0, 0, 0, 0);
+    color: #D20000;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0 0 0 15px;
+}
+.cart-wrapper .cart-items  a {
+    border: medium none;
+    color: #1E1E1E;
+    text-decoration: none;
+	font-size:13px;
+}
+.clear{clear:both;}
+.cart-wrapper .cart-titles .quantity {
+    width: 20%; font-size:16px;
+}
+.cart-wrapper .cart-titles .item-image {
+    width: 50%; font-size:16px;
+}
+.cart-wrapper .cart-titles p {
+    color: #434343;
+    float: left;
+    font-size:15px;
+    font-weight: bold;
+    letter-spacing: 0;
+    padding: 0 !important;
+}
+.cart-wrapper .cart-items .quantity .plus span {
+    background: url("../images/ico-plus-2.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+    height: 26px;
+    padding: 0;
+    width: 29px;
+}
+.button-1 span {
+    background: url("../images/ico-cart-2.png") no-repeat scroll 16px 7px rgba(0, 0, 0, 0);
+    border-radius: 3px;
+    float: left;
+    padding: 5px 15px 5px 37px;
+}
+.button-1 span {
+    border-radius: 3px;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    float: left;
+    padding: 5px 15px;
+}
+.cart-wrapper .cart-items .quantity .button-1 {
+    float: left;
+    margin: 1px 0 0;
+}
+.custom-font-1 {
+    font-family: Ropa Sans;
+}
+.trans-1 {
+    transition: all 0.2s ease 0s;
+}
+.button-1 {
+    background-color: rgba(0, 0, 0, 0.85);
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);
+    color: #FFFFFF;
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 1px 0 0;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+    text-transform: uppercase;
+}
+.button-3 span {
+    background: url("../images/ico-cart-2.png") no-repeat scroll 16px 7px #C0504D;
+    border-radius: 3px;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    color: #FFFFFF;
+    float: left;
+    padding: 5px 15px 5px 37px;;
+}
+
+.button-3-disabled {
+    background-color: #868686;
+    cursor: default;
+}
+input[type="button"]{ padding:6px; font-size:14px; font-weight:bold;}

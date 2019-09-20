@@ -1,0 +1,2 @@
+[23-May-2014 06:35:07 Asia/Calcutta] PHP Fatal error:  Call to undefined function gettime() in /home/sabjionw/public_html/dummy/process/process.php on line 33
+[23-May-2014 06:42:21 Asia/Calcutta] PHP Parse error:  syntax error, unexpected T_CASE in /home/sabjionw/public_html/dummy/process/process.php on line 60

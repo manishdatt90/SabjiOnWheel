@@ -1,0 +1,331 @@
+
+
+  
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+      
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"9dfe439095","applicationID":"8763","transactionName":"Il9dRhNbCVtVQhgXQgBTVkFOWgpTVUMYF1oORw==","queueTime":4,"applicationTime":106,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-397.min.js","extra":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function t(n,e,r){function o(a){if(!e[a]){var i=e[a]={exports:{}};n[a][0].call(i.exports,function(t){var e=n[a][1][t];return o(e?e:t)},i,i.exports,t,n,e,r)}return e[a].exports}if("function"==typeof __nr_require)return __nr_require;for(var a=0;a<r.length;a++)o(r[a]);return o}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
+    <title>www/js/jqgrid/themes/redmond/images/ui-icons_217bc0_256x240.png | SVN | Assembla</title>
+    <link href="https://www.assembla.com/assets/favicon-67a62ab4cfa7a52140bb0c9ad71ce7cb.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://www.assembla.com/assets/favicon-67a62ab4cfa7a52140bb0c9ad71ce7cb.ico" rel="icon" type="image/x-icon" />
+    <link href="https://www.assembla.com/assets/favicon-154a7619f119dfbc2cd65ce3151740ae.gif" rel="icon" type="image/gif" />
+
+    <!--[if IE 7]>
+      <link href="https://www.assembla.com/assets/ie/ie7-0cffa215c2f9e503f4c603a6c59ca832.css" media="all" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <!--[if lte IE 8]>
+      <script src="https://www.assembla.com/assets/excanvas.mod-bdcb98c2fa2ca644eedc705dac9a7504.js" type="text/javascript"></script>
+      <link href="https://www.assembla.com/assets/ie/ie8-e37b8078357ed1ad7af32e0a758d40ff.css" media="all" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <!--[if lte IE 9]>
+      <link href="https://www.assembla.com/assets/ie/ie9-77e5e447443131fa11026aa3314a0f46.css" media="all" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <!--[if (gte IE 6)&(lte IE 8)]>
+      <script src="https://www.assembla.com/assets/selectivizr-bcec35532f6082d0d9641a496aab7564.js" type="text/javascript"></script>
+    <![endif]-->
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="4h6RT6KfvNCpxUIx3RVNd8eDJBmF5E/dQalPJUV+JgI=" name="csrf-token" />
+    <link href="https://www.assembla.com/assets/themes/base_app_and_alerts-4ac7fa0429f2b716fd5ec072b6aeca17.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="https://www.assembla.com/assets/sections/repos/code_browser-f2bd33c84e6ba1218452de36096d6b30.css" media="all" rel="stylesheet" type="text/css" />
+    
+    
+    <link href="https://www.assembla.com/assets/themes/print-f2b5179ec1d4dbecb4d02e3a7af64bdc.css" media="print" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+      if (!Breakout) { var Breakout = {}; }
+          Breakout.space_wiki_name = "kaf26";
+          Breakout.space_id = "ayWWVimR8r34QeeJe5avMc";
+        Breakout.space_new_record = false;
+        Breakout.controller_name = "spaces/nodes"
+        Breakout.action_name = "show"
+      Breakout.notifications_enabled = 'true';
+        Breakout.enableTrackers = true;
+    </script>
+      <script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="gssgpyfjwg7czeb"></script>
+
+    <script type="text/javascript">
+var _kmq = _kmq || [];
+var _kmk = _kmk || '6c7196ab3d35c1950d0d9ec38314e729643a2f36';
+
+// Track clicks on free banner
+_kmq.push(['trackClick', '#account-page-click', 'Free Upgrade Banner Click']);
+
+function _kms(u){
+  setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0],
+    s = d.createElement('script');
+    s.type = 'text/javascript'; s.async = true; s.src = u;
+    f.parentNode.insertBefore(s, f);
+  }, 1);
+}
+_kms('//i.kissmetrics.com/i.js');
+_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+
+
+    
+    
+    <script src="https://www.assembla.com/assets/packages/code-42bb68cb6c41bab9ddf897a354be7808.js" type="text/javascript"></script>
+      
+
+      
+  
+  
+
+
+    <!--[if lte IE 9]>
+      <script src="https://www.assembla.com/assets/packages/lte_ie9-4a1a2a81873945fa6aeccea2355dc78d.js" type="text/javascript"></script>
+    <![endif]-->
+
+    <!-- prevents swf file caching -->
+    <meta http-equiv="PRAGMA" content="NO-CACHE" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    
+  </head>
+
+  <body class="locale_en " data-locale="en">
+    <div class="outer ">
+      
+      <!--[if IE 6]>
+        <div class="browser-ie6" style="display: none;"><div>
+      <![endif]-->
+      <div class="b-wrapper ">
+        <a name="pagetop"></a>
+          <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-2641193-1']);
+    _gaq.push(['_setDomainName', 'assembla.com']);
+    _gaq.push(['_setCustomVar', 1, 'Logged', 'false', 1]);
+    
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+    
+  </script>
+
+
+
+        <div class="hidden">
+          <a href="#content">Skip to contents</a>
+        </div>
+
+        
+          
+
+<div id="header-w">
+  <div id="header" class="_">
+    <div id="header-links">
+        <div id="user-box">
+                <a href="/features/compare" class="try-assembla">Try Assembla</a>
+
+  <a href="/login" class="login">Log in</a>
+
+
+        </div>
+      <div class="">
+        <span id="space-role">Free/Public Project</span>
+      </div>
+    </div>
+    <div id="logo">
+      <div >
+        <h1 class="header-w clear-float float-left">
+            <a href="/"><img alt="Go to Assembla" src="https://www.assembla.com/assets/assembla-logo-small-2ca27b9f36b7021ff8a7c54677b95ae4.png" /></a>
+
+            <span>KAF26</span>
+        </h1>
+        
+      </div>
+    </div>
+
+    <div class="cut">&nbsp;</div>
+
+  </div><!-- /header -->
+</div><!-- /header-w -->
+
+        
+      <div id="main-menu-w" class="l-row clearfix">
+        <div class="s-col-12"><ul id="main-menu"><li class="tab"><a href="/spaces/kaf26/team" class="icon-team"><span>Team</span></a></li><li class="tab"><a href="/spaces/kaf26/stream" class="icon-stream"><span>Stream</span></a></li><li class="tab"><a href="/spaces/kaf26/ftp_tool" class="icon-ftp"><span>FTP</span></a></li><li class="tab"><a href="/spaces/kaf26/tickets" class="icon-ticket"><span>Tickets</span></a></li><li class="tab"><a href="/spaces/kaf26/webhooks" class="icon-webhook"><span>Webhook</span></a></li><li class="tab current fixed"><a href="/code/kaf26/subversion/nodes" class="icon-source-svn"><span>SVN</span></a></li><li class="tab"><a href="/spaces/kaf26/scrum" class="icon-scrum"><span>StandUp</span></a></li><li class="tab"><a href="/spaces/kaf26/messages" class="icon-messages"><span>Messages</span></a></li><li class="tab"><a href="/spaces/kaf26/documents" class="icon-documents"><span>Files</span></a></li><li class="tab"><a href="/spaces/kaf26/wiki" class="icon-wiki"><span>Wiki</span></a></li><li class="tab"><a href="/spaces/kaf26/new_dashboard" class="icon-dashboard"><span>Dashboard</span></a></li><li id="more-tab" style="display:none;"><a href="#" id="main-more-menu">more</a><div class="more_tabs_menu" id="more-menu" style="display: none;"><div class="more_tabs_menu_item"></div><div class="more_tabs_menu_item"><a href="/spaces/kaf26/team" class="icon-team"><span>Team</span></a></div><div class="more_tabs_menu_item"><a href="/spaces/kaf26/stream" class="icon-stream"><span>Stream</span></a></div><div class="more_tabs_menu_item"><a href="/spaces/kaf26/ftp_tool" class="icon-ftp"><span>FTP</span></a></div><div class="more_tabs_menu_item"><a href="/spaces/kaf26/tickets" class="icon-ticket"><span>Tickets</span></a></div><div class="more_tabs_menu_item"><a href="/spaces/kaf26/webhooks" class="icon-webhook"><span>Webhook</span></a></div><div class="more_tabs_menu_item"><a href="/code/kaf26/subversion/nodes" class="icon-source-svn"><span>SVN</span></a></div><div class="more_tabs_menu_item"><a href="/spaces/kaf26/scrum" class="icon-scrum"><span>StandUp</span></a></div><div class="more_tabs_menu_item"><a href="/spaces/kaf26/messages" class="icon-messages"><span>Messages</span></a></div><div class="more_tabs_menu_item"><a href="/spaces/kaf26/documents" class="icon-documents"><span>Files</span></a></div><div class="more_tabs_menu_item"><a href="/spaces/kaf26/wiki" class="icon-wiki"><span>Wiki</span></a></div><div class="more_tabs_menu_item"><a href="/spaces/kaf26/new_dashboard" class="icon-dashboard"><span>Dashboard</span></a></div></div></li><li class="search-field"><div class="s-hint float-right mr-5 mt-2">
+    <span class="s-icon s-icon-info"></span>
+    <div class="s-hint-container s-hint-container-left s-large"><div class="s-arrow"></div>
+      <strong>Available Commands:</strong>
+      <br />
+      <em>#number</em> to access a ticket
+      <br />
+      <em>@user</em> to access user reports
+
+
+      <br />
+      Invite a user by writing his email address or login
+
+      <br />
+      You can use quotes &quot; &quot; to search for the exact words
+    </div>
+</div>
+
+
+<form accept-charset="UTF-8" action="/spaces/kaf26/search" autocomplete="off" id="search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <input id="object_scope_top_right" name="object_scope" type="hidden" value="10" />
+  
+  <input class="main-search mentionable" data-autocomplete-url="/spaces/kaf26/user_completions_list" data-value="Search" id="q" maxlength="141" name="q" size="15" type="text" value="Search" />
+</form></li></ul></div>
+        <script type="text/javascript">
+//<![CDATA[
+MainMenuTabs.render();
+//]]>
+</script>
+      </div><!-- /main-menu-w -->
+
+      <ul class='menu-submenu'><li ><a href="/code/kaf26/subversion/nodes" class="first selected">Source</a></li><li ><a href="/code/kaf26/subversion/commits" class="">Commits</a></li><li ><a href="/code/kaf26/subversion/compare" class="">Compare</a></li><li ><a href="/code/kaf26/subversion/merge_requests" class="">Merge Requests</a></li><li ><a href="/code/kaf26/subversion/repo/instructions" class=" last">Instructions</a></li></ul><div class='cut'></div>
+
+        
+
+        <div id="content" class="data-pjax-container">
+          
+          
+          
+          
+
+            <div class="repo-header l-toolbar m-0 clear-float">
+  <div class="float-right">
+  
+  <a href="/code/kaf26/subversion/compare" class="gray-btn"><span class="s-icon s-icon-compare"></span> Compare</a>
+  
+</div>
+
+
+<h1 class="repo-type float-left mr-10">kaf26</h1>
+
+<div class="clone-urls-container float-left">
+  <div class="clone-urls s-group-btn-small float-left">
+    <a href="https://subversion.assembla.com/svn/kaf26/" class="gray-btn subversion active"><span>Checkout</span></a>
+  </div>
+
+  <div class="form-clone-url float-left s-form no-margin">
+    <input type="text" id="clone-url" value="https://subversion.assembla.com/svn/kaf26/" class="no-rounded-left s-large" readonly="readonly">
+
+    <div class="clippy inline"><span class="global-clippy" data-clipboard-text="https://subversion.assembla.com/svn/kaf26/" data-copied-hint="copied!" data-copy-hint="copy to clipboard" data-tooltip-position="right"></span></div>
+  </div>
+</div>
+
+</div>
+
+
+<div class="repo-files gray-box no-border inner-padding-small mt-5">
+  
+<div class="node-toolbar s-header">
+  <div class="branch-dropdown s-dropdown">
+    
+    
+  </div>
+
+  
+
+  <ul class="links-list mt-5 mr-5 float-right">
+
+
+        <li class="action-links">
+          <a href="/code/kaf26/subversion/node/blob/www/js/jqgrid/themes/redmond/images/ui-icons_217bc0_256x240.png?raw=1&amp;rev=90">Raw</a>
+          <em>|</em>
+        </li>
+
+      <li class="action-links"><a href="/code/kaf26/subversion/commits/90/www/js/jqgrid/themes/redmond/images/ui-icons_217bc0_256x240.png" class="revision-log" rel="nofollow">Previous Versions</a></li>
+
+        <em>|</em>
+  <li>
+    <a href="/code/kaf26/subversion/nodes/90/www/js/jqgrid/themes/redmond/images/ui-icons_217bc0_256x240.png?_format=raw" class="download-icon" rel="nofollow">Download</a>
+  </li>
+
+
+  </ul>
+
+  <div class="repo-breadcrumb">
+    <div class="breadcrumb-path ml-5">Rev. 90</div><a href="/code/kaf26/subversion/nodes/90" class="breadcrumb-path breadcrumb-separator pjax">/</a><a href="/code/kaf26/subversion/nodes/90/www" class="breadcrumb-path pjax">www</a><div class="breadcrumb-separator">/</div><a href="/code/kaf26/subversion/nodes/90/www/js" class="breadcrumb-path pjax">js</a><div class="breadcrumb-separator">/</div><a href="/code/kaf26/subversion/nodes/90/www/js/jqgrid" class="breadcrumb-path pjax">jqgrid</a><div class="breadcrumb-separator">/</div><a href="/code/kaf26/subversion/nodes/90/www/js/jqgrid/themes" class="breadcrumb-path pjax">themes</a><div class="breadcrumb-separator">/</div><a href="/code/kaf26/subversion/nodes/90/www/js/jqgrid/themes/redmond" class="breadcrumb-path pjax">redmond</a><div class="breadcrumb-separator">/</div><a href="/code/kaf26/subversion/nodes/90/www/js/jqgrid/themes/redmond/images" class="breadcrumb-path pjax">images</a><div class="breadcrumb-separator">/</div><div class="breadcrumb-path">ui-icons_217bc0_256x240.png</div>
+    
+  </div>
+
+  <div class="cut">&nbsp;</div>
+</div>
+
+
+  <div class="node-table repo-files gray-box no-border mt-10 pjax-start-hide">
+    <table class="record-table">
+      <tbody>
+        <tr>
+          <td>
+            <img alt="ui-icons_217bc0_256x240.png" src="https://www.assembla.com/code/kaf26/subversion/node/blob/www/js/jqgrid/themes/redmond/images/ui-icons_217bc0_256x240.png?rev=90" />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="ajax-load-indicator pjax-start-show pjax-end-hide"><img alt="Ajax-loader" height="16" src="https://www.assembla.com/assets/ajax-loader-329cf294d8d48d231cf9e07fd60e3ae6.gif" style="vertical-align: bottom;" /> Loading, please wait...</div>
+</div>
+
+
+
+
+        </div><!-- /content -->
+
+          
+  
+
+          <div class="push-app"></div>
+      </div><!-- /b-wrapper -->
+
+        <div class="cut">&nbsp;</div>
+
+        <div id="footer-w">
+  
+
+  <div id="footer">
+    
+
+    <p>
+      <a href="/">Home</a>
+      / <a href="http://api-doc.assembla.com/">Developer API</a>
+        / <a href="/features">Tour</a>
+        / <a href="/account">Get a Project</a>
+        &nbsp; - &nbsp; Solutions for <a href="/features/bug-tracking">Bug &amp; Issue Tracking</a>, <a href="/features/collaboration">Collaboration Tools</a>, <a href="http://offers.assembla.com/free-subversion-hosting">Free Subversion Hosting</a>, <a href="http://offers.assembla.com/free-git-hosting">Free GIT Hosting</a>
+
+    </p>
+
+
+    <p id="copyr-contact">
+    Kaf26 is powered by Assembla Workspaces. <a href="/">Learn More</a>
+</p>
+
+  </div><!-- /footer -->
+</div><!-- /footer-w -->
+
+
+
+      
+  
+
+
+
+      
+      
+    </div>
+
+    
+      
+  </body>
+</html>
+
+

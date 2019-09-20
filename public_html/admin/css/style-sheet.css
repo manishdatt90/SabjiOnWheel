@@ -1,0 +1,118 @@
+
+body{
+margin:0px;
+font-family:Tahoma;
+font-size:12px;
+}
+
+div.left-bg
+{
+	background:url(../images/left-bg.gif) left repeat-y;
+}
+
+div.right-bg
+{
+	background:url(../images/right-bg.gif) right repeat-y;
+}
+
+div.head-center
+{
+	padding:0px 7px 0px 7px;
+}
+
+div.head-bottom
+{
+	background-color:#e20a16;
+	height:7px;
+	width:100%;
+}
+
+div.admin-menu
+{
+	text-align:left;
+	margin:0px;
+	padding:0px;
+}
+
+div.admin-menu ul
+{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
+div.admin-menu ul li
+{
+	background:#ffffff url(../images/white_bg.gif) right repeat-y;
+	padding:0px;
+	width:100%;
+}
+
+div.admin-menu ul li.alt
+{
+	background:#ececec url(../images/gray_bg.gif) right repeat-y;
+	padding:0px;
+	width:100%;
+}
+
+div.admin-menu ul li div
+{
+	background:url(../images/dot-border.gif) bottom repeat-x;
+	width:100%;
+	padding-top:5px;
+	padding:5px 0px 5px 0px;
+}
+
+div.admin-menu ul li.alt div
+{
+	background:url(../images/dot-border.gif) bottom repeat-x;
+	width:100%;
+	padding:5px 0px 5px 0px;
+}
+
+div.admin-menu ul li div a
+{
+	background: url(../images/bullet.gif) left no-repeat;
+	background-position:10px;
+	padding:5px 5px 5px 25px;
+	width:100%;
+	text-decoration:none;
+	font-weight:bold;
+	color:#000000;
+}
+
+div.admin-menu ul li.alt div a
+{
+	background: url(../images/bullet.gif) left no-repeat;
+	background-position:10px;
+	padding:5px 5px 5px 25px;
+	width:100%;
+	text-decoration:none;
+	font-weight:bold;
+	color:#000000;
+}
+
+div.admin-menu ul li div a:hover
+{
+	color:#e20a16;
+}
+
+div.admin-bottom
+{
+	background-color:#e20a16;
+	color:#FFFFFF;
+	padding:5px 0px 5px 0px;
+	font-weight:bold;
+}
+
+.link-white
+{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.link-white:hover
+{
+	color:#FFFFBF;
+	text-decoration:underline;
+}

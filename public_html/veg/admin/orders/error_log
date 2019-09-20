@@ -1,0 +1,2 @@
+[10-Sep-2014 15:50:16 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sabjionw/public_html/config.php on line 36
+[10-Sep-2014 15:50:26 Asia/Kolkata] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sabjionw/public_html/config.php on line 36

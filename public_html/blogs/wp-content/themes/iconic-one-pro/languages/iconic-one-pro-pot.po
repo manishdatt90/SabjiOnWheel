@@ -1,0 +1,1035 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: io-pro\n"
+"POT-Creation-Date: 2013-08-26 21:00+0530\n"
+"PO-Revision-Date: 2013-08-26 21:02+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\apps\\wordpress\\htdocs\\wp-content\\themes"
+"\\iconic-one-pro\n"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/404.php:17
+msgid "Nothing Here!"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/404.php:21
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content-none.php:14
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/index.php:80
+msgid "Kindly search your topic below or browse the recent posts."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/author.php:71
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/category.php:41
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/comments.php:36
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/comments.php:37
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content-none.php:10
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/index.php:76
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/search.php:34
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content-page.php:18
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content.php:66
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/image.php:92
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content-page.php:21
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content.php:107
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:281
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/image.php:37
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content.php:13
+msgid "Featured Article"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content.php:21
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content.php:28
+msgid "By"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content.php:36
+msgid "0 Comment"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content.php:36
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:60
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content.php:36
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content.php:65
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content.php:115
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/content.php:131
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:34
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:143
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:169
+msgid "Main Sidebar"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:171
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:180
+msgid "Footer Widget One"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:181
+msgid "Footer widget one, Enable this area from Control Panel >> Main Settings"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:189
+msgid "Footer Widget Two"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:190
+msgid "Footer widget two"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:198
+msgid "Footer Widget Three"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:199
+msgid "Footer widget three"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:222
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/single.php:62
+msgid "Post navigation"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:223
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:224
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:249
+msgid "Pingback:"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:249
+msgid "(Edit)"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:264
+msgid "Post author"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:270
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:276
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:285
+msgid "Reply"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:304
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:307
+msgid ", "
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:318
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:324
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:326
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/functions.php:328
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/header.php:66
+msgid "Skip to content"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/image.php:41
+msgid "&larr; Previous"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/image.php:42
+msgid "Next &rarr;"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/index.php:65
+msgid "No posts to display"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/index.php:69
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/sidebar.php:20
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:26
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/sidebar.php:24
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/sidebar.php:29
+msgid "Tag Cloud"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/tag.php:19
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/io-pro-functions.php:53
+msgid "Iconic One Pro User Information"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/io-pro-functions.php:57
+msgid "Googleplus"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/io-pro-functions.php:60
+msgid "Please enter your G+ ID."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/io-pro-functions.php:64
+msgid "Twitter"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/io-pro-functions.php:67
+msgid "Please enter your Twitter ID."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/io-pro-functions.php:71
+msgid "Facebook"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/io-pro-functions.php:74
+msgid "Please enter your Facebook ID."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/themonic-customizer.php:8
+msgid "Iconic One"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/themonic-customizer.php:9
+msgid "Basic Settings"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/themonic-customizer.php:41
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/themonic-customizer.php:47
+msgid "Logo"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/themonic-customizer.php:74
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:455
+msgid "Footer"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/themonic-customizer.php:125
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:362
+msgid "Social"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-feed-subscribe.php:23
+msgid "Feedburner Subscription Widget."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-feed-subscribe.php:29
+msgid "Iconic One Pro Email Subscription"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-feed-subscribe.php:99
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-popular-posts.php:78
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:120
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-thumbnail.php:17
+msgid "Title:"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-feed-subscribe.php:105
+msgid "Feedburner id (http://feeds.feedburner.com/<b>themonic</b>):"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-popular-posts.php:15
+msgid "A Widget to dispaly Popular Posts With Thumbs"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-popular-posts.php:16
+msgid "Iconic One Pro Popular Posts"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-popular-posts.php:74
+msgid "Popular Posts "
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-popular-posts.php:84
+msgid "Number of Posts to Show:"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:11
+msgid "List recent posts with thumbnails from custom categories."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:13
+msgid "themonic Recent Posts"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:56
+msgid "0 Comments"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:58
+msgid " Comments"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:62
+#, php-format
+msgid ""
+"<span class=\"sep\"> | </span><a href=\"%1$s\" title=\"Comment on %3$s\">"
+"%2$s</a>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:123
+msgid "Number of posts to show:"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:125
+msgid "(at most 15)"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:127
+msgid "Posts offset"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:129
+msgid "Provide an offset number to which you wish to skip the posts."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:131
+msgid "Cat IDs to exclude or include:"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:134
+msgid ""
+"Category IDs, separated by commas. Eg: 3,6,7 to include. Or -3,-6,-7 to "
+"exclude."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:136
+msgid "Hide Thumbnails?"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-posts.php:138
+msgid "If unchecked, it will show post thumbnails."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/inc/widget-recent-thumbnail.php:18
+msgid "Number of Posts Displayed:"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:24
+msgid "A Section added by hook"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:25
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:62
+msgid "<p></p>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:73
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:78
+msgid "Find me on LinkedIn"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:94
+msgid "Iconic One Pro"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:98
+msgid "Iconic One Pro Options"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:121
+msgid "Support and Help"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:122
+msgid ""
+"<p>Visit themonic.com/support or use the contact form for super quick "
+"support</p>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:126
+msgid "Credit"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:127
+msgid ""
+"<p>Modified NHP/Redux Framework</p> https://github.com/leemason/NHP-Theme-"
+"Options-Framework | https://github.com/ghost1227/Redux-Framework"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:131
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:142
+msgid "Getting Started"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:143
+msgid ""
+"<p class=\"description\">Kindly read the following section carefully.</p>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:169
+msgid "Main Settings"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:170
+msgid "<p class=\"description\">Enable or Disable the following features.</p>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:176
+msgid "Show Author ID on Home Page"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:177
+msgid "Enables Author ID display on home page with small thumb."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:178
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:197
+msgid "Enabled by default"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:186
+msgid "Breadcrumb Option"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:187
+msgid "Enable or Disable Breadcrumb"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:188
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:206
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:215
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:224
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:285
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:304
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:323
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:342
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:370
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:379
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:388
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:397
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:406
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:426
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:445
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:464
+msgid "Disabled by default"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:195
+msgid "Pagination Option"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:196
+msgid "Enable or Disable Pagination"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:204
+msgid "Related Posts"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:205
+msgid "Enable or Disable Related posts"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:213
+msgid "Related Posts Thumbnails"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:214
+msgid "Enable or Disable Related posts thumbnails"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:222
+msgid "Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:223
+msgid "Enable or Disable Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:235
+msgid "Design Settings"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:236
+msgid ""
+"<p class=\"description\">Use these setting to change the appearance of your "
+"website</p>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:241
+msgid "Customize Theme Color"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:242
+msgid "Change the main theme color"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:243
+msgid ""
+"Use of a bit darker colors is recommended, if you have to use light color -> "
+"make use of the Menu link color setting given below."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:249
+msgid "Menu link color"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:250
+msgid "Change the link color"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:251
+msgid ""
+"Use this setting only if you are going to use light color background in the "
+"above\"Theme Color\" setting, else leave empty."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:258
+msgid "Favicon Upload"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:259
+msgid "Upload your website favicon"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:265
+msgid "WP-Login Screen Logo"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:266
+msgid "Upload logo for Admin/Author login screen for Branding"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:276
+msgid "Ad Management"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:277
+msgid ""
+"<p class=\"description\">Ad management console, use to this insert Adsense "
+"ads or html at locations defined. First Activate the area and then place the "
+"code.</p>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:283
+msgid "Activate Below Title Hook #AD1"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:284
+msgid ""
+"Enable or Disable the following below title hook, after enabling enter the "
+"ad code below"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:293
+msgid "Below Title Hook #AD1"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:294
+msgid ""
+"You could use it to display Adsense ads below the title where it earns the "
+"most"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:302
+msgid "Activate Below Header Hook #AD2"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:303
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:322
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:341
+msgid "Enable or Disable the following hook"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:312
+msgid "Below the Header Hook #AD2"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:313
+msgid "Use it to insert Ad code directly below the navigation"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:321
+msgid "Activate Above Header Hook #AD3"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:331
+msgid "Above the Header Hook #AD3"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:332
+msgid "Use it to insert Ad code above Header"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:340
+msgid "Activate Below Article Hook #AD4"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:350
+msgid "After Article Hook #AD4"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:351
+msgid "Use it to insert Ad code after the article"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:363
+msgid ""
+"<p class=\"description\">First Enable Social Sharing and then select the "
+"buttons to show.</p>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:368
+msgid "Social Sharing"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:369
+msgid "Enable or Disable Social Bookmarking on posts"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:377
+msgid "Facebook Share Option"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:378
+msgid "Enable or Disable Facebook button"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:386
+msgid "Google Plus Share Option"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:387
+msgid "Enable or Disable Google+ button"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:395
+msgid "Twitter Share Option"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:396
+msgid "Enable or Disable Twitter button"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:404
+msgid "Pinterest Share Option"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:405
+msgid "Enable or Disable Pinterest button"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:417
+msgid "Slider"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:418
+msgid ""
+"<p class=\"description\">Setup the Homepage Slider and Category Page Slider."
+"</p>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:424
+msgid "Home Page Slider"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:425
+msgid "Enable or Disable Home Page Slider"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:434
+msgid "Select Home Page Slider Category"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:436
+msgid "Select the Category from which you want to show slider on Home page."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:443
+msgid "Category Page Slider"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:444
+msgid ""
+"Enable Category Page slider, it will slide images from its respective "
+"category."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:456
+msgid ""
+"<p class=\"description\">For Tracking codes, it will load in the end to "
+"improve performance</p>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:462
+msgid "Enable Footer Analytics Code"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:463
+msgid "Check this to activate the area below"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:472
+msgid "Footer Analytics Code"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:473
+msgid "for eg. Google Analytics, Statcounter etc."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:481
+msgid "Credit link"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:482
+msgid "Uncheck this if you want to remove the credit link"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:491
+msgid "Affiliate ID"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:492
+msgid ""
+"Adds your affiliate ID to the footer credit link. Free registeration at "
+"Themonic.com/affiliate"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:493
+#, php-format
+msgid ""
+"Enter your Affiliate ID to  get 50% of all sales referred by you, no hassle "
+"monthly payouts. "
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/themonic-options.php:506
+msgid "Support"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:45
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:47
+msgid "Options"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:58
+#, php-format
+msgid ""
+"<span id=\"footer-thankyou\">Crafted on <a href=\"%s\" target=\"_blank"
+"\">Themonic Framework</a> v%s</span>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:232
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:233
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:671
+msgid "Import / Export"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:252
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:253
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:700
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:773
+msgid "Dev Mode Info"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:344
+msgid "Are you sure? You will lose all custom values."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:625
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:799
+msgid "Reset to Defaults"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:631
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:633
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:638
+msgid "<strong>Settings have changed, you should save them!</strong>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:639
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:640
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:718
+msgid "Import / Export Options"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:719
+msgid "Import Options"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:720
+msgid "Import from file"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:720
+msgid "Import from URL"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:725
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:735
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:742
+msgid "Import"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:742
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:745
+msgid "Export Options"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:747
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:750
+msgid "Copy"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/themonic-reset.php:750
+msgid "Copy Link"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/fields/color_gradient/field_color_gradient.php:28
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/fields/color_gradient/field_color_gradient.php:33
+msgid "From:"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/fields/color_gradient/field_color_gradient.php:29
+msgid "To:"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/fields/color_gradient/field_color_gradient.php:35
+msgid " To:"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/fields/google_webfonts/field_google_webfonts.php:25
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/fields/multi_text/field_multi_text.php:31
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/fields/multi_text/field_multi_text.php:35
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/fields/multi_text/field_multi_text.php:38
+msgid "Remove"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/fields/multi_text/field_multi_text.php:40
+msgid "Add More"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/fields/upload/field_upload.php:30
+msgid "Upload"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/fields/upload/field_upload.php:31
+msgid "Remove Upload"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/validation/color/validation_color.php:13
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/validation/comma_numeric/validation_comma_numeric.php:13
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/validation/date/validation_date.php:13
+msgid "This field must be a valid date."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/validation/email/validation_email.php:13
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/validation/no_html/validation_no_html.php:13
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/validation/no_special_chars/validation_no_special_chars.php:13
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/validation/numeric/validation_numeric.php:13
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one-pro/themonic/options/validation/url/validation_url.php:13
+msgid "You must provide a valid URL for this option."
+msgstr ""
